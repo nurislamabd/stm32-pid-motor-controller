@@ -1,0 +1,15 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# Eclipse / STM32CubeIDE metadata
+.metadata/
+.settings/
+*.launch
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
